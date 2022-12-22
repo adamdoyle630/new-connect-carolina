@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-login {
+    margin-top: 25px;
+}
+
+.login-header {
+    text-align: center;
+}
+
+.input-container {
+    padding: 25px;
+    background-color:rgb(231, 232, 233);
+    border-radius: 3px;
+    border-color: black;
+    text-align: center;
+}

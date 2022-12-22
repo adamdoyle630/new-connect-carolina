@@ -1,12 +1,12 @@
-import logo from './logo.svg';
+import React from 'react';
+import Login from './pages/login'
 import './App.css';
+import './pages/login.css'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>Hello World</p>
-      </header>
+    <div className="ui container">
+      <Login />
     </div>
   );
 }
